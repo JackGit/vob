@@ -1,0 +1,19 @@
+{
+  "name": "vob",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackgit/vob.git"
+  },
+  "author": "ygjack414@hotmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jackgit/vob/issues"
+  },
+  "homepage": "https://github.com/jackgit/vob#readme"
+}
